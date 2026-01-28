@@ -53,9 +53,9 @@ Use whatever technologies, libraries, and architecture patterns you're comfortab
 
 This endpoint accepts polyline or direct GPS coordinates in the request body. Refer to the documentation for request/response formats.
 
-**Note:** The free tier has a daily limit of 3 requests. Plan your testing accordingly.
+**API Key:** Create an account and subscribe to the TollTally API (not TollGuru API) trial plan at [https://platforms.mapup.ai](https://platforms.mapup.ai) - and get your API key from the "Home" tab on the left side bar.
 
-**API Key:** Create an account and subscribe to the TollTally API trial plan at [https://platforms.mapup.ai](https://platforms.mapup.ai)
+**Important Note**: The trial is available for 7 days after subscribing, so subscribe once you've completed the must-have features. The free tier has a limit of 15 transactions per day (approx. 10-15 requests based on the length of the route) — reuse API responses during testing to avoid exhausting your daily quota.
 
 ## Video Submission Requirements
 
