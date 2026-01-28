@@ -10,6 +10,8 @@ The objective of this assessment is to build a **GPS Location Tracker applicatio
 
 ## Application Requirements
 
+**Important: Build a native Android application using Kotlin. React Native, Flutter, or other cross-platform frameworks are not accepted.**
+
 ### Core Features (Must Have)
 
 Build an Android application with the following capabilities:
