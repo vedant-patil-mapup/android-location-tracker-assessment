@@ -2,7 +2,7 @@
 
 ## Overview
 
-The objective of this assessment is to build a **GPS Location Tracker application** that demonstrates your proficiency in Android development, background services, local data persistence, and API integration. You'll create an app that tracks user location in the background, stores session data locally, and displays route information with optional toll calculation integration.
+The objective of this assessment is to build a **GPS Location Tracker application** using Kotlin that demonstrates your proficiency in native Android development, background services, local data persistence, and API integration. You'll create an app that tracks user location in the background, stores session data locally, and displays route information with optional toll calculation integration.
 
 ## Timeline
 
