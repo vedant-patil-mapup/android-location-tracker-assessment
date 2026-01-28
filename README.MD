@@ -45,7 +45,7 @@ Use whatever technologies, libraries, and architecture patterns you're comfortab
 **For geographic calculations:**
 
 - You can use [Mapbox Turf](https://docs.mapbox.com/android/java/guides/install) or similar libraries
-- For polyline encoding/decoding, refer to online resources or use the conversion code provided in this repository
+- For polyline encoding/decoding, refer to online resources or convert the code from [python polyline decoder](https://gist.github.com/signed0/2031157) to Kotlin or Java.
 
 ## TollTally API Integration
 
