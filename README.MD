@@ -95,7 +95,7 @@ Your submission will be evaluated based on:
    - vedantp@mapup.ai
    - ajayap@mapup.ai
    - dewanshp@mapup.ai
-   - @parask@mapup.ai
+   - parask@mapup.ai
    - asijitp@mapup.ai
 
 Finally, fill out the Google Form you received via email to submit the assessment for review.
